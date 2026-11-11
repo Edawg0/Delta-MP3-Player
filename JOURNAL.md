@@ -6,8 +6,27 @@ created_at: "2026-11-01"
 total_time: "2h"
 ---
 
-## November 5, 2026: <Brand New Start>
+## November 10, 2026: <>
 
+**Now I want to start creating some code first.**
+
+The code should:
+1. Read inputs from the touch screen.
+2. The screen should have menus that you can navigate via touch.
+3. The board should read MP3/flac files from the sd card reader.
+4. The board should be able to decode the audio and send it to the DAC
+(The above listed are my minimum product, some other things that would be handy are:)
+5. A battery% icon with screen dimming.
+6. A local host website where you can upload MP3's too.
+>That's alot for someone like me, but I think I can do it!
+
+To make the gui, I will be using LVGL for the UI because I want to create the UI within 30 hours, and make it look good ;)
+To get started, I looked through the documentation on the LVGL website and install the LVGL Pro Editor and trying to set up platformio on VSCode
+
+Anyways I gotta hop on fort, goodbye.
+
+## November 5, 2026: <Brand New Start>
+~
 **I Am Outlining Some of Parameters For My MP3 Player**
 
 I debated whether or not to make my own PCB via KiCad but decided against it due to its complexity and my lack of PCB design experiance.
