@@ -1,0 +1,12 @@
+{
+  "name": "ScLib",
+  "version": "0.1.0",
+  "description": "Display, touch and LVGL setup for the Hosyond 2.8in ESP32-S3 module",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": [
+    { "owner": "lvgl", "name": "lvgl", "version": "^9" },
+    { "owner": "bodmer", "name": "TFT_eSPI" },
+    { "owner": "bitbank2", "name": "bb_captouch" }
+  ]
+}

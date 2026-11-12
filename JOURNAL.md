@@ -3,27 +3,8 @@ title: "Delta MP3 Player"
 github: "https://github.com/Edawg0/Delta-MP3-Player"
 description: "This is my take on an original MP3 Player!"
 created_at: "2026-11-01"
-total_time: "2h"
+total_time: "6h"
 ---
-
-## November 10, 2026: <>
-
-**Now I want to start creating some code first.**
-
-The code should:
-1. Read inputs from the touch screen.
-2. The screen should have menus that you can navigate via touch.
-3. The board should read MP3/flac files from the sd card reader.
-4. The board should be able to decode the audio and send it to the DAC
-(The above listed are my minimum product, some other things that would be handy are:)
-5. A battery% icon with screen dimming.
-6. A local host website where you can upload MP3's too.
->That's alot for someone like me, but I think I can do it!
-
-To make the gui, I will be using LVGL for the UI because I want to create the UI within 30 hours, and make it look good ;)
-To get started, I looked through the documentation on the LVGL website and install the LVGL Pro Editor and trying to set up platformio on VSCode
-
-Anyways I gotta hop on fort, goodbye.
 
 ## November 5, 2026: <Brand New Start>
 ~
@@ -77,3 +58,50 @@ In short:
 Hopefully I'll make these entrees more polished soon, but for now I'm going to bed, goodnight!
 
 **Total time spent: 2h**
+
+## November 10, 2026: <Intermission>
+
+**Now I want to start creating some code first.**
+
+The code should:
+1. Read inputs from the touch screen.
+2. The screen should have menus that you can navigate via touch.
+3. The board should read MP3/flac files from the sd card reader.
+4. The board should be able to decode the audio and send it to the DAC
+(The above listed are my minimum product, some other things that would be handy are:)
+5. A battery% icon with screen dimming.
+6. A local host website where you can upload MP3's too.
+>That's alot for someone like me, but I think I can do it!
+
+To make the gui, I will be using LVGL for the UI because I want to create the UI within 30 hours, and make it look good ;)
+To get started, I looked through the documentation on the LVGL website and install the LVGL Pro Editor and trying to set up platformio on VSCode
+
+Anyways I gotta hop on fort, goodbye.
+**Total Time Spent: 1h**
+
+## November 11, 2026: <Starting To Code>
+**Today I plan to code, code and code**
+
+Today I spent a crap ton of time reading the LVGL documentation and reminicing at how bad my coding skills are!
+(They will get better hopefully)
+
+I drew up some menu options in my notebook,
+
+I also add the main configurations of the ScLib.h, ScLib.cpp, AppUI.h and AppUI.cpp files.
+My only problem with these is that its mainly code I got online which means I dont really **understand** the code very well.
+But I am trying my best too!
+
+Soon enough I should be writing my own code for this no problemento,
+then I'll get the crushing realization that all of my code is crap and doesnt work!
+but hopefully that won't be the case.
+
+On the other hand, I think that the LVGL logic and process is really fun and intuitive.
+It really makes a good bit of sense to me which is nice.
+
+I also realize that I need to get way better at understanding pointers because currently I don't know jack diddle about them.
+That's also something I will improve on in the coming days hopefully, and probably something I'll research
+in my spare time (not counted to hours)
+
+The next time I work on this, I will begin to **actually** make the UI.
+
+**Totall Time Spent: 3h**
